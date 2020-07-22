@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I build applications with JavaScript. Lately, I'm making many useful things with React and Next.js. I also love sharing knowledge and contributing to open source, that's the reason I help to maintain projects like Unform and Gatsby Themes.
 
