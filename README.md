@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
-
-![image](https://user-images.githubusercontent.com/6764957/87083194-cec5b800-c25e-11ea-85b4-0bebc4374e07.png)
+![animated](https://user-images.githubusercontent.com/887639/87050499-56aeb200-c1cc-11ea-8c2c-25d6a5ba82fe.gif)
 
 I build applications with JavaScript. Lately, I'm making many useful things with React and Next.js. I also love sharing knowledge and contributing to open source, that's the reason I help to maintain projects like Unform and Gatsby Themes.
 
