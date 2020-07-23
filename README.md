@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![zgit](https://user-images.githubusercontent.com/10963220/88288120-b11a3900-ccc9-11ea-816c-32af9eca7552.png)
+![ux-ui](https://user-images.githubusercontent.com/10963220/88296551-37884800-ccd5-11ea-8627-f6f93b704179.png)
 
 I'm a software engineer who is passionate💖 about JavaScript Full Stack Web Development (MERN Stack Technologies). I recently Got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open souce contrubution.
 
