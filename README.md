@@ -8,7 +8,7 @@ I build applications with JavaScript. Lately, I'm making many useful things with
 
 Currently, I am working at Rocketseat. If you would like to discuss these things, you can send me an email or follow me on Twitter. Looking forward to connecting with you.
 
-Here are some ideas to get you started:
+Here are some ideas using React Native:
 
 - 🔭 I’m currently working on ... YouTube
 - 🌱 I’m currently learning ... React.js
