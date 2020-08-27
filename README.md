@@ -8,7 +8,7 @@ I build applications with JavaScript. Lately, I'm making many useful things with
 
 Here are some ideas using React Native:
 
-- 🔭 I’m currently working on ... YouTube
+- 🔭 Rio Praias
 - 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate on ... React Native
 - 🤔 I’m looking for help with ... AWS, Google Cloud
