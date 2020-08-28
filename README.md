@@ -10,7 +10,7 @@ Here are some ideas using React Native:
 
 1. 🔭 Rio Praias
 2. 🌱 Rio Run
-- 👯 I’m looking to collaborate on ... React Native
+3. 👯 Saúde Rio
 - 🤔 I’m looking for help with ... AWS, Google Cloud
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...
