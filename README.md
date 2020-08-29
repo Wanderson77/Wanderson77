@@ -11,7 +11,7 @@ Here are some ideas using React Native:
 1. 🔭 Rio Praias
 2. 🌱 Rio Run
 3. 👯 Saúde Rio
-- 🤔 I’m looking for help with ... AWS, Google Cloud
+4. 🤔  Lista de Compras
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
