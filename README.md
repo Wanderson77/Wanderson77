@@ -11,9 +11,9 @@ Here are some ideas using React Native:
 1. 🔭 Rio Praias
 2. 🌱 Rio Run
 3. 👯 Saúde Rio
-4. 🤔  Lista de Compras
-5. 💬 Cidade de São Gonçalo
-- 📫 How to reach me: ...
+4. 📫 Rio Coletas
+5. 🤔  Lista de Compras
+6. 💬 Cidade de São Gonçalo
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
