@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Wanderson Aldo 👋
 
 ![mob-ux-ui-beach](https://user-images.githubusercontent.com/10963220/91584207-b0a83a00-e928-11ea-9e09-d0874e54b868.gif)
 
