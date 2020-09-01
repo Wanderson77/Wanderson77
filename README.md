@@ -14,6 +14,6 @@ Here are some ideas using React Native:
 4. 📫 Rio Coletas
 5. 🤔  Lista de Compras
 6. 💬 Cidade de São Gonçalo
-- 😄 Pronouns: ...
+7. 😄 Loren (Consultora Virtual)
 - ⚡ Fun fact: ...
 -->
