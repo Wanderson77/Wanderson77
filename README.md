@@ -13,7 +13,6 @@ Here are some ideas using React Native:
 3. 👯 Saúde Rio
 4. 📫 Rio Coletas
 5. 🤔  Lista de Compras
-6. 💬 Cidade de São Gonçalo
+6. 💬 Cidade de São Gonçalo (Smart Citie)
 7. 😄 Loren (Consultora Virtual)
 8. ⚡  Quber (Gerenciador para motoristas particulares)
--->
