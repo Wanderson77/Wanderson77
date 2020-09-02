@@ -1,4 +1,4 @@
-## Hi, I'm Wanderson Aldo 👋
+## Hi, I'm Wanderson Aldo
 
 ![mob-ux-ui-beach](https://user-images.githubusercontent.com/10963220/91584207-b0a83a00-e928-11ea-9e09-d0874e54b868.gif)
 
@@ -15,5 +15,5 @@ Here are some ideas using React Native:
 5. 🤔  Lista de Compras
 6. 💬 Cidade de São Gonçalo
 7. 😄 Loren (Consultora Virtual)
-- ⚡ Fun fact: ...
+8. ⚡  Quber (Gerenciador para motoristas particulares)
 -->
