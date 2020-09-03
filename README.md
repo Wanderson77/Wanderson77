@@ -17,4 +17,6 @@ Here are some ideas using React Native:
 7. 😄 Loren (Consultora Virtual)
 8. ⚡  Quber (Gerenciador para motoristas particulares)
 
+[Blog do Da2k](https://blog.da2k.com.br)
+
 "FIRST, SOLVE THE PROBLEM. THEN, WRITE THE CODE!!!!"
