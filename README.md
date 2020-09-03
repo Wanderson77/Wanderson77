@@ -18,6 +18,5 @@ Here are some ideas using React Native:
 8. ⚡  Quber (Gerenciador para motoristas particulares)
 
 [Blog do Da2k](https://blog.da2k.com.br)
-<a href="https://google.com" target="_blank">google link</a>
 
 "FIRST, SOLVE THE PROBLEM. THEN, WRITE THE CODE!!!!"
