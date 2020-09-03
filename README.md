@@ -8,7 +8,7 @@ I build applications with JavaScript. Lately, I'm making many useful things with
 
 Here are some ideas using React Native:
 
-1. 🔭 Rio Praias
+1. 🔭 Rio Praias (TurisTech)
 2. 🌱 Rio Run
 3. 👯 Saúde Rio
 4. 📫 Rio Coletas
@@ -16,3 +16,5 @@ Here are some ideas using React Native:
 6. 💬 Cidade de São Gonçalo (Smart Citie)
 7. 😄 Loren (Consultora Virtual)
 8. ⚡  Quber (Gerenciador para motoristas particulares)
+
+"FIRST, SOLVE THE PROBLEM. THEN, WRITE THE CODE!!!!"
