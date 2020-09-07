@@ -15,6 +15,6 @@ Here are some ideas using React Native:
 5. 🤔  Lista de Compras
 6. 💬 Cidade de São Gonçalo (Smart Citie)
 7. 😄 [Loren App](https://github.com/Wanderson77/App-Loren) - Consultora Virtual de Cosméticos (Beauty Tech)
-8. ⚡  [Quber] (https://github.com/Wanderson77/RioKuber) - Gerenciador para motoristas particulares (MobiTech)
+8. ⚡  [Quber](https://github.com/Wanderson77/RioKuber) - Gerenciador para motoristas particulares (MobiTech)
 
 "FIRST, SOLVE THE PROBLEM. THEN, WRITE THE CODE!!!!"
