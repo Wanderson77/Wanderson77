@@ -13,7 +13,7 @@ Here are some ideas using React Native:
 3. 👯 [Saúde Rio](https://github.com/Wanderson77/RioSaude-App) - Mapa da Saúde do Estado do Rio de Janeiro (Smart Citie)
 4. 📫 Rio Coletas
 5. 🤔  Lista de Compras
-6. 💬 Cidade de São Gonçalo (Smart Citie)
+6. 💬 [Cidade de São Gonçalo](https://github.com/Wanderson77/App-SG-Cidadao) - App (Smart Citie)
 7. 😄 [Loren App](https://github.com/Wanderson77/App-Loren) - Consultora Virtual de Cosméticos (Beauty Tech)
 8. ⚡  [Quber](https://github.com/Wanderson77/RioKuber) - Gerenciador para motoristas particulares (MobiTech)
 
