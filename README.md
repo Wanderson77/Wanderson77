@@ -1,4 +1,4 @@
-![ux-ui-dev](https://user-images.githubusercontent.com/10963220/110122922-06a9de80-7d9f-11eb-926f-bf40790f77e4.png)
+![ux-ui-dev](https://user-images.githubusercontent.com/10963220/110208677-5a7ffa80-7e67-11eb-8b14-3f949e1cb0ba.png)
 
 I'm a software engineer who is passionate💖 about JavaScript Full Stack Web Development (MERN Stack Technologies). I recently Got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open souce contrubution.
 
