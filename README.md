@@ -1,9 +1,5 @@
 ![webapp](https://user-images.githubusercontent.com/10963220/110378944-fa3eb380-8034-11eb-860c-67f3252a596e.gif)
 
-I'm a software engineer who is passionate💖 about JavaScript Full Stack Web Development (MERN Stack Technologies). I recently Got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open souce contrubution.
-
-I build applications with JavaScript. Lately, I'm making many useful things with React and Next.js. I also love sharing knowledge and contributing to open source, that's the reason I help to maintain projects like Unform and Gatsby Themes.
-
 Here are some ideas using React Native:
 
 1. 🔭 [Rio Praias](https://github.com/Wanderson77/RioPraias) - App sobre a balneabilidade das Praias (TurisTech)
