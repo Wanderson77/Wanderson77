@@ -1,7 +1,5 @@
 ![webapp](https://user-images.githubusercontent.com/10963220/110378944-fa3eb380-8034-11eb-860c-67f3252a596e.gif)
 
-500 Apps :: https://www.youtube.com/channel/UCGnLa9SJqvre6xIMMZSP15g
-
 Here are some ideas using React Native:
 
 1. 🔭 [Rio Praias](https://github.com/Wanderson77/RioPraias) - App sobre a balneabilidade das Praias (TurisTech)
